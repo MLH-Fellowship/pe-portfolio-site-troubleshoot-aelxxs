@@ -1,4 +1,4 @@
-FROM scratch
+FROM python:3.6
 
 WORKDIR /myportfolio
 
